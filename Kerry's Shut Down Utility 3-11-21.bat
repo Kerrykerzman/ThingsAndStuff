@@ -40,7 +40,7 @@ if %op%==3 goto 3
 if %op%==4 goto 4
 if %op%==5 goto 5
 if %op%==6 goto 6
-if %op%==6 goto 7
+if %op%==7 goto 7
 if %op%==8 goto exit
 goto menu
 
